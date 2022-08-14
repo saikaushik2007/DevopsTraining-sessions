@@ -44,7 +44,9 @@
 
 `mv file1 file2` Rename or move file1 to file2. If file2 is an existing directory, move file1 into directory file2
 
-`ln -s /path/to/file linkname`	 Create symbolic link to linkname touch file	# Create an empty file or update the access and modification times of file.
+`ln -s /path/to/file linkname`	 Create symbolic link to linkname 
+
+`touch file`	# Create an empty file or update the access and modification times of file.
 
 `cat file`	 View the contents of file
 
